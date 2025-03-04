@@ -1,0 +1,21 @@
+.input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.label {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 10px;
+}
+.inputWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
